@@ -5,3 +5,8 @@
 - 👋 Hi, I’m Hui Mei Peng
 - 👀 I’m double majoring in Psychology and Business Administration.
 - 🌱 I’m currently learning AI.
+
+<table>
+  <tbody>
+    <tr>
+      <td><a herf="https://www.facebook.com/profile.php?id=100001486333811/"><img align="left" src="http://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="100%"/></a></td>
