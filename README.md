@@ -14,3 +14,15 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+### Github Analytics
+<a href="https://github.com/MayPeng1128">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayPeng1128&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+
+### Most Used Languages
+<a href="https://github.com/MayPeng1128">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayPeng1128&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+</a>
