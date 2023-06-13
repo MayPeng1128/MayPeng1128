@@ -6,11 +6,12 @@
 - 👀 I’m double majoring in Psychology and Business Administration.
 - 🌱 I’m currently learning AI.
 
+
 <table>
   <tbody>
     <tr>
-      <td><a herf="https://www.facebook.com/profile/"><img align="left" src="http://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="100%"/></a></td>
-      <td><a herf="https://www.instagram.com/2002_1128_/"><img align="left" src="http://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="100%"/></a></td>
+      <td><a href="https://www.facebook.com/profile.php?id=100001486333811"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="60"/></a></td>
+      <td><a href="https://www.instagram.com/2002_1128_/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="60"/></a></td>
     </tr>
   </tbody>
 </table>
